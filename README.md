@@ -1,2 +1,2 @@
-# B-Tree
+# BplusTree
 B+Tree implementation in C
