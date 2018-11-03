@@ -1,2 +1,2 @@
 # BplusTree
-B+Tree implementation in C
+B+Tree implementation in Java
